@@ -1,6 +1,6 @@
 # Tugas besar divisi web chevalier
 
-## Tuliskan nama anggota timnya
+## Tuliskan nama anggotak timnya
 
 ### Tim 4
 
